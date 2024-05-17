@@ -1,0 +1,11 @@
+data/
+env/
+*.zip
+/data_small/
+data2/
+dataDir/
+myenv/
+completeData/
+datasets/
+data.zip/
+*.pickle
